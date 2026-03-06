@@ -1,3 +1,3 @@
 # Palestine Flag using Python Turtle
 
-![Flag Output](flag.jpeg)
+![Flag Output](flag.png)
